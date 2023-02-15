@@ -1,7 +1,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I’m%20Eliott&fontSize=40&animation=fadeIn)-->
 ## 👋 Hi, I’m @PierreBoccard
 - 👀 I’m interested in Astrophysics
-- 🔭: Masters in Astrophysics and Cosmology @ EPFL. As of Feb 2023, I'll be visiting at the Astronomy & Astrophysics Department of UChicago under the supervision of J. Frieman.
+- 🔭: Masters in Astrophysics and Cosmology @ EPFL. 
+- 🆕: As of Feb 2023, I'll be visiting at the Astronomy & Astrophysics Department of UChicago under the supervision of Prof. Joshua Frieman.
 
 ### ⚡️ Some links
 
