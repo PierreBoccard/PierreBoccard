@@ -2,13 +2,15 @@
 ## 👋 Hi, I’m @PierreBoccard
 - 👀 I’m interested in Astrophysics
 - 🔭: Masters in Astrophysics and Cosmology @ EPFL. 
-- 🆕: As of Feb 2023, I'll be visiting at the Astronomy & Astrophysics Department of UChicago under the supervision of Prof. Joshua Frieman.
+- 🆕: As of Feb 2023, I'll be a visiting graduate student at the Astronomy & Astrophysics Department of UChicago under the supervision of Prof. Joshua Frieman.
 
 ### ⚡️ Some links
 
 - :deciduous_tree: My personal website: [pierreboccard.github.io](https://pierreboccard.github.io) 
 
 ### ☕️ Projects and contributions
+
+[How do supermassive black holes co-evolve with their host galaxy – the perspective of cosmological simulations](/assets/Report.pdf)
 
 <!--[![PierreBoccard's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBoccard&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
