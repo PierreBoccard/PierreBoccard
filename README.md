@@ -21,4 +21,4 @@
 <!--[![PierreBoccard's GitHub stats](https://github-readme-stats.vercel.app/api?username=PierreBoccard&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=pierreboccard&color=2553ff)  [![Linkedin](https://img.shields.io/badge/Linkedin-2553ff.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/pierre-boccard/) [![email]]()
+![GitHub Views](https://komarev.com/ghpvc/?username=pierreboccard&color=2553ff)  [![Linkedin](https://img.shields.io/badge/Linkedin-2553ff.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/pierre-boccard/) [:mail]()
